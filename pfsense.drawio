@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T17:41:26.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PsSAlPkdUpvVlJsb5rRc" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T17:44:42.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6-wI0y4vm-Q5jIAFLKJ0" version="15.7.3" type="github">
   <diagram id="uYzDPYRhWdToXK-8ippb" name="Page-1">
-    <mxGraphModel dx="2595" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           <mxGeometry x="892.79" y="558" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ifAZvqbqv97R8_vC6tgh-68" value="192.168.1.x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1283.96" y="720" width="60" height="30" as="geometry" />
+          <mxGeometry x="1310" y="750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ifAZvqbqv97R8_vC6tgh-69" value="192.168.1.x" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1110" y="746" width="60" height="30" as="geometry" />
@@ -376,6 +376,9 @@
             <mxPoint x="1950" y="975" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ifAZvqbqv97R8_vC6tgh-147" value="LoadBlancer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="889.49" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
